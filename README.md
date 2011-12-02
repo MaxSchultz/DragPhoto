@@ -1,1 +1,1 @@
-This is a minimal skeleton viewer that will run inside your locker and let you easily build your own experiences of your data.
+Hooray! It's a photo view that looks like Polaroids of yore.  You can drag them around and make them snap to attention.
